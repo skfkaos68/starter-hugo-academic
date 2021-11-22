@@ -3,7 +3,7 @@ advanced:
   css_style: ""
   css_class: ""
 widget: blank
-widget_id: home
+widget_id: text
 headless: true
 weight: 15
 title: Hello!
